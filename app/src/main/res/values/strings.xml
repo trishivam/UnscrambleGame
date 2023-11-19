@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Unscramble Game</string>
+    <string name="score">Score: </string>
+    <string name="enter_your_word">Enter your words</string>
+    <string name="word_count"></string>
+    <string name="instructions">Unscrambled the word using all the letters</string>
+    <string name="submit">Submit</string>
+    <string name="skip">Skip</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="your_scored">Your Scored</string>
+    <string name="exit">Exit</string>
+    <string name="playAgain">Play Again</string>
+    <string name="wrongGuess">Wrong Guess Word</string>
+</resources>
